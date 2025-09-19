@@ -100,12 +100,6 @@ input {
   grid-template-columns: repeat(3, 1fr);
 }
 
-/* App.css */
-.leaflet-container {
-  width: 100%;
-  height: 500px;
-}
-
 
 @media (max-width: 768px) {
   .grid-2,
